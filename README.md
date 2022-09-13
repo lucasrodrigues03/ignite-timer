@@ -8,11 +8,12 @@
   
 </p>
 
+
 ## 🔖 Layout
 
 <p align="center">
 
- <img src="https://user-images.githubusercontent.com/86750985/189970326-cdc482ba-e9b7-4f0e-81f9-ab46154076bc.png">
+ <img src="https://user-images.githubusercontent.com/86750985/189981723-790ca252-8e8a-4c40-9152-0072c3f6588e.png">
 
 </p>
 <p align="center">
