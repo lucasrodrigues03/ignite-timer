@@ -21,18 +21,17 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- React.JS
-- Next.JS
+- React.JS + Reducers
 - TypeScript
-- Tanstack React-Query
-- Chakra UI
-- Mirage. JS
-- Axios
+- react-hook-form
+- styled-components
+- Immer JS
+- zod
 
 
 ## 💻 Projeto
 
-O dashgo foi desenvolvido no curso do ignite da rocketseat com intenção de utilizar  as ferramentas Chakra UI para estilização de componentes com interface declarativa e React Query para fetch dos dados para melhor experiência do usuário.
+O Ignite-Timer é um simples Countdown desenvolvido durante o bootcamp ignite da rocketseat, porém  utilizando  as tecnologias mais atuais no mercado.
 
 
 
