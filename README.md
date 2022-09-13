@@ -11,7 +11,8 @@
 ## 🔖 Layout
 
 <p align="center">
-![ignite-timer](https://user-images.githubusercontent.com/86750985/189969395-80b24275-fe20-4964-acd4-0b80d172b424.png)
+
+ <img alt="![ignite-timer](https://user-images.githubusercontent.com/86750985/189970326-cdc482ba-e9b7-4f0e-81f9-ab46154076bc.png)">
 
 </p>
 
