@@ -23,6 +23,8 @@
 
 </p>
 
+<p>
+  
 ## 🚀 Como executar
 
 - Clone o repositório
@@ -30,7 +32,9 @@
 - Rode o `npm run dev` para iniciar a aplicação.
 
 Por fim, a aplicação estará disponível em `http://localhost:3000`
-
+  
+  
+</p>
 
 
 ## 🚀 Tecnologias
