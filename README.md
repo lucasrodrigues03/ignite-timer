@@ -55,7 +55,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Ignite-Timer é um simples Countdown desenvolvido durante o bootcamp ignite da rocketseat, porém  utilizando  as tecnologias mais atuais no mercado.
+O Ignite-Timer é um simples Countdown desenvolvido durante o bootcamp ignite da rocketseat, sendo possível marcar o tempo de uma atividade, interrompe-la e ver o progresso em tempo real  .
 
 
 
